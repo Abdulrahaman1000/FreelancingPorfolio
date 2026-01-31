@@ -42,7 +42,7 @@ export default function Portfolio() {
       image: '/images/radio-invoice.jpg',
       gallery: ['/images/radio-invoice-1.jpg', '/images/radio-invoice-2.jpg', '/images/radio-invoice-3.jpg'],
       tags: ['React', 'Node.js', 'MongoDB', 'EXPRESS'],
-      url: 'https://example.com/hotel-management',
+      url: 'https://emiratefm.vercel.app/',
       fullDescription: 'A comprehensive hotel management solution featuring real-time booking management, inventory control, automated billing, and advanced analytics dashboard. Built to handle operations for small to medium-sized hotels with multi-user access and role-based permissions.',
       features: ['Reciept Generator', 'Invoicing System', 'Automated Billing & Invoice', 'Analytics Dashboard', 'Clients Management'],
       technologies: ['React.js', 'Node.js', 'MongoDB', 'Express', 'TailwindCSS'],
@@ -84,26 +84,26 @@ export default function Portfolio() {
 
   const moreProjects = [
     {
-      id: 'ecommerce-1',
-      title: 'Fashion Store E-commerce',
-      description: 'Complete e-commerce solution with payment integration, inventory management, and customer analytics.',
-      url: 'https://example.com/fashion-store',
+      id: 'Data Gaming',
+      title: 'Data Up Gaming',
+      description: 'DataUp Gaming is a one-stop-shop for the digital lifestyle, merging gaming top-ups with essential bill payments.',
+      url: 'https://www.dataupgaming.com/',
       technologies: ['React', 'Node.js', 'Stripe', 'MongoDB'],
       year: '2023'
     },
     {
       id: 'saas-1',
-      title: 'Project Management SaaS',
-      description: 'Cloud-based project management tool with real-time collaboration, task tracking, and team analytics.',
-      url: 'https://example.com/pm-saas',
+      title: 'SystemsTech HRMS',
+      description: 'A comprehensive digital solution designed to centralize and automate HR processes and employee data management.',
+      url: 'https://staff.systemstech.com.ng',
       technologies: ['React', 'Firebase', 'Material-UI'],
       year: '2023'
     },
     {
-      id: 'healthcare-1',
-      title: 'Telemedicine Platform',
-      description: 'HIPAA-compliant telemedicine platform with video consultations, prescription management, and patient records.',
-      url: 'https://example.com/telemedicine',
+      id: 'DataUP',
+      title: 'DataUP',
+      description: 'This website is ClickPay, a digital wallet and utility payment platform.',
+      url: 'https://dataup.com.ng/',
       technologies: ['React', 'WebRTC', 'PostgreSQL', 'Express'],
       year: '2022'
     },
